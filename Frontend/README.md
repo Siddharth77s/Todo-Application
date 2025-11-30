@@ -58,8 +58,7 @@ const API_BASE = 'http://<Your_PC_IP>:8000'; // replace <Your_PC_IP> with your c
 ## Screenshots
 
 Login / Signup
-![alt text](file:///c%3A/Users/Siddharth/Downloads/1000502946.jpg)
-
+images/1000502945.jpg
 Dashboard
 ![alt text](file:///c%3A/Users/Siddharth/Downloads/1000502945.jpg)
 
